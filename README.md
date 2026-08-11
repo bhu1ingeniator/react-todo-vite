@@ -19,7 +19,7 @@ It allows users to **add, mark complete, and delete tasks**, with data stored in
 - Vite  
 - CSS  
 
-## 💾 Run Locally
+### Run Locally
 ```bash
 git clone https://github.com/<your-username>/react-todo-vite.git
 cd react-todo-vite
