@@ -2,19 +2,19 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-# 📝 React + Vite To-Do App
+### React + Vite To-Do App
 
 A simple and modern To-Do List web application built using **React + Vite**.  
 It allows users to **add, mark complete, and delete tasks**, with data stored in **localStorage** for persistence.
 
-## 🚀 Features
+### Features
 - Add new tasks  
 - Mark tasks as completed  
 - Delete tasks  
 - Data saved automatically (localStorage)  
 - Clean and responsive UI
 
-## 🛠️ Tech Stack
+### Tech Stack
 - React.js  
 - Vite  
 - CSS  
